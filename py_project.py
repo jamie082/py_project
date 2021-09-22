@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import datetime
-import second_file
+import write
 
 try:
     string = input("How many lines to text file?: ")
